@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce-platform",
+  "version": "1.0.0",
+  "description": "Production-ready Full-Stack Commercial E-Commerce Platform",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "seed": "cd backend && npm run seed",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm run dev",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
+    "build": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": ["ecommerce", "react", "node", "express", "mongodb", "razorpay"],
+  "author": "",
+  "license": "ISC"
+}
