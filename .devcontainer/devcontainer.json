@@ -1,0 +1,17 @@
+{
+  "name": "ShopEase Full-Stack E-Commerce",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "forwardPorts": [5000, 5173],
+  "portsAttributes": {
+    "5173": {
+      "label": "Frontend (Storefront & Admin)",
+      "onAutoForward": "openBrowser"
+    },
+    "5000": {
+      "label": "Backend REST API",
+      "onAutoForward": "silent"
+    }
+  },
+  "postCreateCommand": "npm run install:all",
+  "postStartCommand": "npm run dev"
+}
