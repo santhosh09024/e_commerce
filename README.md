@@ -2,15 +2,16 @@
 
 > Production-ready, full-stack commercial e-commerce application built with React, Vite, Tailwind CSS, Node.js, Express, MongoDB (Mongoose), Razorpay Payment Gateway, and Nodemailer.
 
+[![Deploy to GitHub Pages](https://github.com/santhosh09024/e_commerce/actions/workflows/deploy.yml/badge.svg)](https://github.com/santhosh09024/e_commerce/actions/workflows/deploy.yml)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/santhosh09024/e_commerce)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/santhosh09024/e_commerce)
 
 ---
 
-### 🚀 Instant 1-Click Runnable Link (No Setup Required)
-You can run this entire full-stack project directly in your browser without installing Node.js or MongoDB locally:
-- 👉 **[Click here to Run on GitHub Codespaces](https://codespaces.new/santhosh09024/e_commerce)**
-- 👉 **GitHub Repository**: [https://github.com/santhosh09024/e_commerce](https://github.com/santhosh09024/e_commerce)
+### 🌐 Live Working Demo & 1-Click Runnable Links
+- 🔗 **Live Website Link (GitHub Pages)**: [https://santhosh09024.github.io/e_commerce/](https://santhosh09024.github.io/e_commerce/)
+- 💻 **1-Click Run in Browser (GitHub Codespaces)**: [https://codespaces.new/santhosh09024/e_commerce](https://codespaces.new/santhosh09024/e_commerce)
+- 📁 **GitHub Repository**: [https://github.com/santhosh09024/e_commerce](https://github.com/santhosh09024/e_commerce)
 
 ---
 
